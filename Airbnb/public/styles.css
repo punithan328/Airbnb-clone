@@ -1,0 +1,62 @@
+.form-color{
+	background-color: rgb(255,90,95);
+	margin-top: 0px;
+	padding-top: 130px;
+	padding-bottom: 130px;
+	margin-bottom: 50px;
+	
+}
+.background_img{
+	background-repeat: no-repeat;
+    background-position: center 20px;
+	margin-top: 0px;
+	margin-bottom: 50px;
+}
+
+
+.navbar.navbar-expand-lg.navbar-light li a{
+	color: rgb(0, 0, 0);
+	margin-bottom: 20px;
+    font-size: 17px;
+    font-weight: 500;   
+	
+}
+
+.navbar.navbar-expand-lg.navbar-light li a:hover {
+	color: rgb(15, 15, 15);
+    padding: 14px 16px;
+	border-bottom: 3px solid rgb(12, 12, 12);
+}
+
+.card:hover {
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.checked {
+    color: rgb(0,132,137)
+}
+.pricing-column{
+	padding: 3% 2%;
+}
+.btn-primary.btn-lg {
+	background-color: rgb(255,90,95);
+	border-color: rgb(255,90,95);
+	font-size: 16px;
+}
+
+.container li a {
+	color: #767676;
+}
+
+.btn.btn-outline-primary.rounded.nohover {
+	pointer-events: none;
+}
+
+.btn.btn-primary.new {
+	background-color: rgb(0, 106, 112);
+	border: none;
+	font-size: 12px;
+	padding: 1px 4px;
+}
+
+
